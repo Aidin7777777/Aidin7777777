@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Reinforcement Learning** & **Multi-Agent Systems**
 - 🌱 I’m currently improving my Math knowledge regarding **Machine Learning & Data Science**
 - 💞️ I’m looking for Internship Opportunities
-- 📫 How to reach me - **[Linkedin](https://linkedin.com/in/aidin-kazempour)** or **[Email](mailto:ak2163@kent.ac.uk)**
+- 📫 How to reach me - **[Linkedin](https://linkedin.com/in/aidin-kazempour-319b5630b/)** or **[Email](mailto:ak2163@kent.ac.uk)**
 
 
 <!---
